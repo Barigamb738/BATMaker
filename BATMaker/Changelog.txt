@@ -1,0 +1,22 @@
+Eng:
+V1: BATMaker is born.
+
+V2: Better UI, more possibility.
+
+	V2.1: User Input added.
+	      Hungarian color misalignment fixed.
+
+	V2.2: Write your own lines of code.
+
+	V2.3: Make your own variables.
+Hun:
+V1: A BATMaker megszületett.
+
+V2: Jobb kezelőfelület, több lehetőség.
+
+	V2.1: Felhasználói bemenet hozzáadása.
+	      Magyar szín eltolódás kijavítva.
+
+	V2.2: Írd be a saját kódodat.
+
+	V2.3: Add meg a saját változód.
